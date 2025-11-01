@@ -3,13 +3,13 @@
 ''''
 word-game/
 
-├─ db.json                # 词库数据给 json-server 用
+├─ db.json                # wordbank-data for json-server 
 
-├─ index.html             # 前端页面
+├─ index.html             # homepage
 
 ├─ src/
 
-│  └─ main.ts             # 你的 TS 游戏逻辑（Konva + fetch 词库）
+│  └─ main.ts             # TS game logic（Konva + fetch wordbank）
 
 └─ package.json
 
